@@ -1,1 +1,3 @@
-# angular-rxjs
+# Angular - quick guide
+
+Two way data binging
