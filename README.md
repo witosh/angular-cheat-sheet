@@ -21,7 +21,7 @@ Data binding is a technique to link your data to your view layer. By binding a v
 ### Interpolation
 
 Form source **app.component.ts**
-```
+```javascript
 import { Component } from '@angular/core';
 
 @Component({
