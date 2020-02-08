@@ -1,3 +1,3 @@
 # Angular - quick guide
 
-Two way data binging
+1. Data binding [Link](https://github.com/witosh/angular-rxjs/tree/master/angular-data-binding)
