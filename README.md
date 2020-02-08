@@ -11,7 +11,7 @@
 [Angular Interview Questions & Answers](https://github.com/sudheerj/angular-interview-questions/blob/master/README.md?fbclid=IwAR2dDlNyYtdbvcl4_k-rQOX_xgjiKk0ehxr_0F7xGriCveEw8mBLejWCpNI#table-of-contents)
 
 
-# 1. Angular data binding
+1. ## Angular data binding
 
 Data binding is a technique to link your data to your view layer. By binding a variable you are telling the Angular to watch it for changes. If changes are detected, the framework takes care of updating the view accordingly.
 
@@ -131,3 +131,6 @@ Or equivalent:
 Source:
 [Two-way-data binding ngModel](https://www.pluralsight.com/guides/one-and-two-way-data-binding-angular)
 [Angular data binding](https://malcoded.com/posts/angular-data-binding/?fbclid=IwAR2MqBaP6NeS4vwHBUfYf03VaSYLpI6Vv6tBW1ImEeTTH9QjsoN-NSE_4SQ)
+
+**[⬆ Back to Top](#table-of-contents)**
+
