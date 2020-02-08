@@ -10,8 +10,7 @@
 
 [Angular Interview Questions & Answers](https://github.com/sudheerj/angular-interview-questions/blob/master/README.md?fbclid=IwAR2dDlNyYtdbvcl4_k-rQOX_xgjiKk0ehxr_0F7xGriCveEw8mBLejWCpNI#table-of-contents)
 
-
-1. ## Angular data binding
+## Angular data binding
 
 Data binding is a technique to link your data to your view layer. By binding a variable you are telling the Angular to watch it for changes. If changes are detected, the framework takes care of updating the view accordingly.
 
@@ -41,6 +40,9 @@ To view **component.html** :
 </h1>
 ```
 
+[Check demo](https://stackblitz.com/edit/angular-tequf) 
+
+
 ### Property bindings
 
 The same source as above **app.component.ts** .
@@ -49,6 +51,8 @@ To view **component.html**:
 ```
 <input [value]="binding"/>
 ```
+[Check demo](https://stackblitz.com/edit/angular-tequf) 
+
 
 ## Binding form view to source (One-way)
 
@@ -76,6 +80,7 @@ onButtonClicked(){
 
 }
 ```
+[Check demo](https://stackblitz.com/edit/angular-tequf) 
 
 ### Passing event
 
@@ -123,14 +128,9 @@ Or equivalent:
 ```
 <input [ngModel]="nameModel" (ngModelChange)="nameModel=$event">
 ```
+[Check demo](https://stackblitz.com/edit/angular-tequf) 
 
-### @Input() and @Output decorator binds a property
-
-[Goods answeres on simple examples](https://stackoverflow.com/questions/40077142/what-is-the-difference-betwen-input-and-output-in-angular2)
-
-Source:
 [Two-way-data binding ngModel](https://www.pluralsight.com/guides/one-and-two-way-data-binding-angular)
-[Angular data binding](https://malcoded.com/posts/angular-data-binding/?fbclid=IwAR2MqBaP6NeS4vwHBUfYf03VaSYLpI6Vv6tBW1ImEeTTH9QjsoN-NSE_4SQ)
 
 **[⬆ Back to Top](#table-of-contents)**
 
