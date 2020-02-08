@@ -4,15 +4,14 @@
 
 | No.        | Topics           | 
 | ------------- |:-------------:|
-| 1.     | [*Angular data binding*](#angular-data-binding) |
+| 1.     | [*Angular data binding*](#angular-data-binding) 		|
 | 2.   | centered      |
 | 3. | are neat      |
 
 [Angular Interview Questions & Answers](https://github.com/sudheerj/angular-interview-questions/blob/master/README.md?fbclid=IwAR2dDlNyYtdbvcl4_k-rQOX_xgjiKk0ehxr_0F7xGriCveEw8mBLejWCpNI#table-of-contents)
 
 
-# Angular data binding
-#angular-data-binding
+# 1. Angular data binding
 
 Data binding is a technique to link your data to your view layer. By binding a variable you are telling the Angular to watch it for changes. If changes are detected, the framework takes care of updating the view accordingly.
 
