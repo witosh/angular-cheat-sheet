@@ -6,7 +6,7 @@
 | ------------- |:-------------:|
 | 1.     | [*Angular data binding*](#angular-data-binding) 		|
 | 2.   | [*@Output and @Input decorators*](#output-and-input-decorators)      |
-| 3. | are neat      |
+| 3. | [@ViewChild and @ViewChildren](#viewchild-and-viewchildren)     |
 
 [Angular Interview Questions & Answers](https://github.com/sudheerj/angular-interview-questions/blob/master/README.md?fbclid=IwAR2dDlNyYtdbvcl4_k-rQOX_xgjiKk0ehxr_0F7xGriCveEw8mBLejWCpNI#table-of-contents)
 
@@ -136,5 +136,12 @@ Or equivalent:
 ## Output-and-Input-decorators
 
 [Stackoverflow - answer](https://stackoverflow.com/questions/37965647/hostbinding-and-hostlistener-what-do-they-do-and-what-are-they-for)
+
+**[⬆ Back to Top](#table-of-contents)**
+
+
+## ViewChild and ViewChildren
+
+[Blog for ViewChild](https://www.techiediaries.com/angular-dom-queries-viewchild/)
 
 **[⬆ Back to Top](#table-of-contents)**
