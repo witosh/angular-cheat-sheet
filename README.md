@@ -131,6 +131,8 @@ Or equivalent:
 
 [Two-way-data binding ngModel](https://www.pluralsight.com/guides/one-and-two-way-data-binding-angular)
 
+[Stackoverflow - binding](https://stackoverflow.com/questions/46368382/angular-property-binding)
+
 **[⬆ Back to Top](#table-of-contents)**
 
 ## Output-and-Input-decorators
