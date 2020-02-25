@@ -3,7 +3,7 @@
 ### Table of Contents
 
 | No.        | Topics           | 
-| ------------- |-------------:|
+| ------------- |:-------------|
 |1. | [*Angular data binding*](#angular-data-binding)|
 |2. | [*@Output and @Input decorators*](#output-and-input-decorators) |
 |3. | [@ViewChild and @ViewChildren](#viewchild-and-viewchildren)|
@@ -168,3 +168,7 @@ pure-pipe works only when the component is loaded.
 [1](https://stackoverflow.com/questions/39285550/what-is-impure-pipe-in-angular?fbclid=IwAR0CDPqyXljMhEv2bxBZ7pSHPGv3OpIyKdTV3WgV5g7Kklo0dHHEimFuCBY)
 
 **[⬆ Back to Top](#table-of-contents)**
+
+<!--
+http://www.angular.love/2018/07/04/rxjs-w-angular-co-wypada-wiedziec/
+-->
